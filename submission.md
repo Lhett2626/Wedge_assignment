@@ -63,30 +63,30 @@ When calculating relative difference, use the formula
 
 
 
-Query	My Results	Your Results	Diff	Relative Diff
-Total Rows	85760139	85,760,139	0	0
-January 2012 Rows	1070907	1,070,907	0	0
-October 2012 Rows	1042287	1070907	28,620	0.02672501
-Month with Fewest	Feb.	Feb.		
-Num Rows in Month with Fewest	7578372	6556770	-1,021,602	-0.155808729
-Month with Most 	May	May		
-Num Rows in Month with Most	7578372	7578372	0	0
-Null_TS	0	7123792	7,123,792	1
-Null_DT	0	0	0	0
-Null_Local	234839	238843	4,004	0.016764151
-Null_CN	0	0	0	0
-Num 5 on High Volume Cards	14987	14987	0	0
-Num Rows for Number 5	460625	460630	5	1.08547E-05
-Num Rows for 18736	12153	12153	0	0
-Product with Most Rows	banana organic	banana organic		
-Num Rows for that Product	908639	908639	0	0
-Product with Fourth-Most Rows	avocado hass organic	avocado hass organic		
-Num Rows for that Product	456771	456,771	0	0
-Num Single Record Products	2741	2769	28	0.010111954
-Year with Highest Portion of Owner Rows	2014	2014	0	0
-Fraction of Rows from Owners in that Year	0.7591	0.7591	0	0
-Year with Lowest Portion of Owner Rows	2011	2011	0	0
-Fraction of Rows from Owners in that Year	0.7372	0.7372	0	0
+| Query | My Results | Your Results | Diff | Relative Diff |
+| Total Rows | 85760139 | 85,760,139 | 0 | 0 |
+| January 2012 Rows | 1070907 | 1,070,907 | 0 | 0 |
+| October 2012 Rows | 1042287 | 1042287 | 0 | 0 |
+| Month with Fewest | Feb. | Feb. | 0 | 0 |		
+| Num Rows in Month with Fewest | 7578372 | 6556770 | -1,021,602 | -0.155808729
+| Month with Most | May | May | 0 | 0 |
+| Num Rows in Month with Most | 7578372 | 7578372 | 0 | 0
+| Null_TS | 0 | 0 | 0 | 0
+| Null_DT | 0 | 0 | 0 | 0 |
+| Null_Local | 234839 | 234839 | 0 | 0 |
+| Null_CN | 0 | 0 | 0 | 0 |
+| Num 5 on High Volume Cards | 14987 | 14987 | 0 | 0 |
+| Num Rows for Number 5 | 460625 | 460625| 0 | 0
+| Num Rows for 18736 | 12153 | 12153 | 0 | 0 |
+| Product with Most Rows | banana organic | banana organic | 0 | 0 |		
+| Num Rows for that Product | 908639 | 908639 | 0 | 0 |
+| Product with Fourth-Most Rows | avocado hass organic | avocado hass organic | 0 | 0 |	
+| Num Rows for that Product | 456771 | 456,771 | 0 | 0 |
+| Num Single Record Products | 2741 | 2769 | 28 | 0.010111954 |
+| Year with Highest Portion of Owner Rows | 2014 | 2014 | 0 | 0 |
+| Fraction of Rows from Owners in that Year | 0.7591 | 0.7591 | 0 | 0 |
+| Year with Lowest Portion of Owner Rows | 2011 | 2011 | 0 | 0 |
+| Fraction of Rows from Owners in that Year | 0.7372 | 0.7372 | 0 | 0 |
 
 ## Reflections
 
